@@ -1,10 +1,5 @@
 # OpenCalc
 An Open-Source, Affordable, Graphical Calculator.
 
-BOM:
-
-1. Fasteners
-2. Waveshare 3.5 inch IPS ESP32
-3. Gateron Low-Profile Switches
-4. 3d Printed Parts
-5. PCB
+Vertical: ESP32 Based, 3.5 Inch IPS Display. (~60 USD)
+Horizontal: Rpi Zero based, 5 Inch HDMI Display (~100 USD)
