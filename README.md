@@ -1,5 +1,5 @@
 # OpenCalc
-An Open-Source, Affordable, Graphical Calculator.
+An Open-Source, Affordable, Graphical Calculator, that also functions as a keypad.
 
 Vertical: ESP32 Based, 3.5 Inch IPS Display. (~60 USD)
 
